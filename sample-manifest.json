@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b099cf05-d9ba-4b1b-9c86-909787cebbc8",
+  "export_job_id": "c3b55ab8-98d6-4cc9-9a6c-3372afd0f595",
   "id_short": 491084,
-  "published_at": "2026-04-22T19:48:08Z",
+  "published_at": "2026-04-30T07:30:28Z",
   "repo_name": "the-hhi-monopoly-index-for-mississippi-us-sample-491084",
   "sample_asset_name": "beamstation_491084_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/491084/beamstation_491084_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "dd70843ebe3aedb6e19086368317364bba47414777ca452e6190297d4e8e657c",
-  "sample_size_bytes": 84424,
-  "total_records": 190
+  "sample_records": 23,
+  "sample_sha256": "d673e4cc653f4453920a96ada838c1a71012b5b489ec90b2b7d910e4df53cc4b",
+  "sample_size_bytes": 98744,
+  "total_records": 233
 }
